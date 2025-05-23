@@ -17,7 +17,7 @@
   - **Result**: Improved coding proficiency and project capabilities.  
 
 ## Personality Assessment  
-- **Evidence**: Myers-Briggs test result (uploaded as PDF).  
+- **Evidence**:   
 - **Reflection (STAR Technique)**:  
   - **Situation**: Required to understand teamwork style.  
   - **Task**: Took a personality assessment.  
