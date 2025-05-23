@@ -25,7 +25,7 @@
   - **Result**: Enhanced collaboration in group projects.  
 
 ## Create a CV  
-- **Evidence**: Link to `CV.pdf` in the repository.  
+- **Evidence**: ![Image Alt](https://github.com/Nomusa6462/Work-Readiness-Portfolio/blob/b72ecae47420e3d6ca274ec708dc4aec5068b445/NomusaM_CV.pdf)  
 - **Reflection (STAR Technique)**:  
   - **Situation**: Needed a professional CV for internships.  
   - **Task**: Researched industry standards.  
