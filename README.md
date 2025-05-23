@@ -9,7 +9,7 @@
   - **Result**: Clarified goals and identified required skills.  
 
 ## Skills and Interests  
-- **Evidence**: Link to skills assessment results (e.g., Coursera certificate).  
+- **Evidence**:![Image Alt](https://github.com/Nomusa6462/Work-Readiness-Portfolio/blob/d8c1164f9b4f9dc0421bc6e75da19a5d01bf1c5f/Screenshot%202025-05-23%20210449.png)  
 - **Reflection (STAR Technique)**:  
   - **Situation**: Recognized gaps in technical skills.  
   - **Task**: Enrolled in online courses.  
