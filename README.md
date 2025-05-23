@@ -1,4 +1,7 @@
-# Digital Portfolio: Work Readiness Training  
+# Hi!I'm Nomusa Mathonsi 
+
+# About me
+-As a driven and detail-oriented final-year Diploma in ICT: Applications Development student at Cape Peninsula University of Technology (CPUT), I am passionate about bridging theoretical knowledge with practical innovation. My academic journey has equipped me with expertise in full-stack development, agile methodologies, and modern programming languages like Java, Python, and JavaScript. Through projects such as the Roam Weather Application for tourists and a Java-based car voting system, I have honed my ability to design user-centric solutions while collaborating effectively in team environments. Eager to transition from academia to industry, I am actively seeking an internship opportunity to contribute my technical skills, adaptability, and problem-solving mindset to impactful projects, while further refining my abilities under the mentorship of seasoned professionals
 
 ## Career Counseling  
 - **Evidence**: ![Image Alt](https://github.com/Nomusa6462/Work-Readiness-Portfolio/blob/0cb7fa351fdb2957dd4fe2d53b9af306e7592dac/Screenshot%202025-05-23%20205513.png)
