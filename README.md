@@ -17,7 +17,7 @@
   - **Result**: Improved coding proficiency and project capabilities.  
 
 ## Personality Assessment  
-- **Evidence**:   
+- **Evidence**:![Image Alt](https://github.com/Nomusa6462/Work-Readiness-Portfolio/blob/136768601212815a3e6edf9d10f01a703f79bf28/Screenshot%202025-05-23%20210559.png)  
 - **Reflection (STAR Technique)**:  
   - **Situation**: Required to understand teamwork style.  
   - **Task**: Took a personality assessment.  
