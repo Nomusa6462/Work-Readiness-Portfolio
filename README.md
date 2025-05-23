@@ -28,7 +28,7 @@
   - **Result**: Enhanced collaboration in group projects.  
 
 ## Create a CV  
-- **Evidence**: ![Image Alt](https://github.com/Nomusa6462/Work-Readiness-Portfolio/blob/b72ecae47420e3d6ca274ec708dc4aec5068b445/NomusaM_CV.pdf)  
+- **Evidence**: ![Image Alt]()  
 - **Reflection (STAR Technique)**:  
   - **Situation**: Needed a professional CV for internships.  
   - **Task**: Researched industry standards.  
@@ -36,7 +36,7 @@
   - **Result**: Secured interviews with updated CV.  
 
 ## CV Submission  
-- **Evidence**: Screenshot of job application confirmation email.  
+- **Evidence**: ![Image Alt](https://github.com/Nomusa6462/Work-Readiness-Portfolio/blob/b72ecae47420e3d6ca274ec708dc4aec5068b445/NomusaM_CV.pdf)
 - **Reflection (STAR Technique)**:  
   - **Situation**: Applied for a junior developer role.  
   - **Task**: Tailored CV for the position.  
