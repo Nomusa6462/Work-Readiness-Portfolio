@@ -1,7 +1,7 @@
 # Digital Portfolio: Work Readiness Training  
 
 ## Career Counseling  
-- **Evidence**: 1[image alt](https://github.com/Nomusa6462/Work-Readiness-Portfolio/blob/0cb7fa351fdb2957dd4fe2d53b9af306e7592dac/Screenshot%202025-05-23%20205513.png)
+- **Evidence**: ![Image Alt](https://github.com/Nomusa6462/Work-Readiness-Portfolio/blob/0cb7fa351fdb2957dd4fe2d53b9af306e7592dac/Screenshot%202025-05-23%20205513.png)
 - **Reflection (STAR Technique)**:  
   - **Situation**: Needed to choose a career path.  
   - **Task**: Attended career counseling sessions.  
