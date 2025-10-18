@@ -1,13 +1,13 @@
-# Reflection: 02 Interview Skills
+# Reflection: Interview Skills
 
 **S – Situation:**  
-Describe the situation or context related to this topic.
+In the Interview Skills module, I learned how to prepare for and conduct myself during job interviews. We explored common interview questions and discussed how to present our strengths and experiences effectively.
 
 **T – Task:**  
-Explain your specific role or responsibility.
+My task was to research potential interview questions for my chosen career field and prepare responses that reflect confidence, honesty, and professionalism.
 
 **A – Action:**  
-Describe the steps or strategies you took.
+I used the STAR technique to structure my answers to behavioral questions. I practiced with classmates and recorded myself to assess my tone and body language. I also prepared a personal elevator pitch to introduce myself professionally.
 
 **R – Result:**  
-Explain the outcome and what you learned.
+After consistent practice, I became more confident in articulating my skills and experiences clearly. This activity helped me understand how preparation and self-awareness can significantly improve my performance in real interviews.
