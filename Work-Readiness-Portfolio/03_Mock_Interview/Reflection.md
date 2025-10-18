@@ -1,7 +1,7 @@
 # Reflection: Mock Interview
 
 **S – Situation:**  
-As part of our training, we conducted a mock interview to simulate a real-world hiring process. I was interviewed by a lecturer who played the role of a recruiter.
+As part of our training, i conducted a mock interview to simulate a real-world hiring process. I gave myself interview questions and answered them.
 
 **T – Task:**  
 The goal was to demonstrate my readiness for professional interviews by applying proper etiquette, maintaining eye contact, and responding confidently to challenging questions.
